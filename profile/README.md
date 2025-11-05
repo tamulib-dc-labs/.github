@@ -31,7 +31,7 @@ This GitHub organization (tamulib-dc-labs) serves as a sandbox for experimentati
 
 Code in this organization may be unstable, in-progress, or deprecated.
 
-## Documentation
+## 📚 Documentation
 
 Most of our documentation is available on our [Docs Site](https://tamulib-dc-labs.github.io/docs/).
 
