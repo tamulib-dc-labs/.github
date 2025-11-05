@@ -4,16 +4,6 @@ TAMULib DC Labs is the experimental development space for the Texas A&M Universi
 
 This org hosts our docs, prototype applications, small utilities, and research code exploring new ideas in digital collections, digital preservation, and scholarly communication.
 
-## 🚀 About
-
-This GitHub organization (tamulib-dc-labs) serves as a sandbox for experimentation and collaboration.
-
-Code in this organization may be unstable, in-progress, or deprecated.
-
-## Documentation
-
-Most of our documentation is available on our [Docs Site](https://tamulib-dc-labs.github.io/docs/).
-
 ## 🧑‍💻 Who We Are
 
 * [Mark Baggett](https://github.com/markpbaggett), Director of Digital Collections
@@ -35,6 +25,15 @@ We help faculty, students, and researchers share, publish, and preserve their wo
 
 Our work also connects people with the university’s rich digital resources by helping audiences discover, explore, and engage with Texas A&M’s collections in new and meaningful ways.
 
+## 🚀 About
+
+This GitHub organization (tamulib-dc-labs) serves as a sandbox for experimentation and collaboration.
+
+Code in this organization may be unstable, in-progress, or deprecated.
+
+## Documentation
+
+Most of our documentation is available on our [Docs Site](https://tamulib-dc-labs.github.io/docs/).
 
 ## 🌐 Microsites
 
