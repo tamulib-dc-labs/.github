@@ -16,11 +16,14 @@ graph TD
     MB[Mark Baggett, Director of Digital Collections] 
     MB --> CB[Corina Barr, Digital Collections Librarian]
     MB --> CS[Charity Stokes, Institutional Repository Administrator]
-    CS --> NB[Nithin Bazaru, Institutional Repository Student Technican]
     MB -.-> JVK[Jvk Chaitanya, Sesquicentennial AI and Machine Learning Student Technician]
     
 
 ```
+
+### Alumni 
+
+* [Nithin Bazaru](https://github.com/bvsnithin), Institutional Repository Student Technican
 
 ## 💼 What We Do
 
