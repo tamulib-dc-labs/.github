@@ -17,6 +17,7 @@ graph TD
     MB --> CB[Corina Barr, Digital Collections Librarian]
     MB --> CS[Charity Stokes, Institutional Repository Administrator]
     MB -.-> JVK[Jvk Chaitanya, Sesquicentennial AI and Machine Learning Student Technician]
+    MB --> GA[Gazia Aziz, Sesquicentennial Student Technician]
     
 
 ```
